@@ -40,6 +40,11 @@ max-width: 300px;
     font-weight: 700;
 }
 
+.box .text p{
+    text-align: center;
+    opacity: .6;
+}
+
 /* ------------------------------------------------------------------------- */
 
 .attribution{
